@@ -1,0 +1,11 @@
+Warning[205] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 1 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 2 : Found directive in column 1. (LIST)
+Warning[205] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 11 : Found directive in column 1. (ORG)
+Warning[203] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 12 : Found opcode in column 1. (GOTO)
+Warning[205] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 13 : Found directive in column 1. (ORG)
+Warning[203] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 14 : Found opcode in column 1. (GOTO)
+Message[302] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 56 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\MIKROISLEMCILER\ODEVLER\3.DENEY_ODEVI\KODLAR\TIMER.ASM 147 : Found directive in column 1. (END)
