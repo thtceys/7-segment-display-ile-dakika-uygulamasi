@@ -1,4 +1,4 @@
-# 7-segment-display-ile-dakika-uygulamasi
+# 7-segment display ile dakika uygulaması
 
 
 2 adet 7-segment display kullanarak 0-59 arasında saniye-saniye sürekli sayan ve 59 olunca tekrar 0 dan saymaya başlayan programı yazınız.  
